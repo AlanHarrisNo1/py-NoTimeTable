@@ -1,4 +1,5 @@
 # py-NoTimeTable
+@Alan Harris-腰间盘同学  
 无课表制作程序(Python)  
 使用的库： os re xlrd xlwt  
 安装xlrd&xlwt: py -m pip install xlrd xlwt  
