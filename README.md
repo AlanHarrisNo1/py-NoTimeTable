@@ -10,7 +10,7 @@ B-H     周一到周日
 4-9     01到12节课，每个单元格两节课  
 #line72修改行  
 如图：  
-![image](http://github.com/AlanHarrisNo1/py-NoTimeTable/shili.png
+![image](http://https://github.com/AlanHarrisNo1/py-NoTimeTable/blob/main/shili.png)
 单元格示例（下面示例仅是一个单元格的数据）： 
 无课的单元格并不是没有数据而是一个空格' '  
 -------------------------------------  
